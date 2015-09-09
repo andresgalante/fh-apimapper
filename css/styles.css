@@ -5233,17 +5233,17 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
-.fh-request {
-  background: #eeeeee;
-  padding: 20px 0;
-}
-.fh-request h4 {
+.fh-secondary-header {
   text-transform: uppercase;
   font-size: 10.5px;
   background: #999999;
   color: #ffffff;
   line-height: 25px;
   padding: 0 7px;
+}
+.fh-request {
+  background: #eeeeee;
+  padding: 20px 0;
 }
 .fh-request-input {
   width: 100%;
@@ -5286,5 +5286,5 @@ a.badge:focus {
   margin: 0;
 }
 .fh-result {
-  padding: 0 0 40px 0;
+  padding: 10px 0 40px 0;
 }
